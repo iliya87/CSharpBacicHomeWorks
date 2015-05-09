@@ -1,0 +1,6 @@
+C:\Users\Pc\Desktop\Operators-Expressions-and-Statements-Homework\Third-Digit-is-7\bin\Debug\Third-Digit-is-7.exe.config
+C:\Users\Pc\Desktop\Operators-Expressions-and-Statements-Homework\Third-Digit-is-7\obj\Debug\Third-Digit-is-7.exe
+C:\Users\Pc\Desktop\Operators-Expressions-and-Statements-Homework\Third-Digit-is-7\obj\Debug\Third-Digit-is-7.pdb
+C:\Users\Pc\Desktop\Operators-Expressions-and-Statements-Homework\05.Third-Digit-is-7\bin\Debug\Third-Digit-is-7.exe.config
+C:\Users\Pc\Desktop\Operators-Expressions-and-Statements-Homework\05.Third-Digit-is-7\obj\Debug\Third-Digit-is-7.exe
+C:\Users\Pc\Desktop\Operators-Expressions-and-Statements-Homework\05.Third-Digit-is-7\obj\Debug\Third-Digit-is-7.pdb

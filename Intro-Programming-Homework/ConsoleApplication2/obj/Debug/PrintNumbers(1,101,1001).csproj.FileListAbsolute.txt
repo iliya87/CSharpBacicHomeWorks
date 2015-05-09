@@ -1,0 +1,11 @@
+C:\Users\UniUser\Desktop\HomeWork\Intro-Programming-Homework\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+C:\Users\UniUser\Desktop\HomeWork\Intro-Programming-Homework\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+C:\Users\UniUser\Desktop\HomeWork\Intro-Programming-Homework\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+C:\Users\UniUser\Desktop\HomeWork\Intro-Programming-Homework\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\Users\UniUser\Desktop\HomeWork\Intro-Programming-Homework\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+C:\Users\TheXman\Desktop\Intro-Programming-Homework\Intro-Programming-Homework\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+C:\Users\TheXman\Desktop\Intro-Programming-Homework\Intro-Programming-Homework\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\Users\TheXman\Desktop\Intro-Programming-Homework\Intro-Programming-Homework\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+C:\Users\TheXman\Desktop\Intro-Programming-Homework\Intro-Programming-Homework\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+C:\Users\TheXman\Desktop\Intro-Programming-Homework\Intro-Programming-Homework\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+C:\Users\TheXman\Desktop\Intro-Programming-Homework\Intro-Programming-Homework\ConsoleApplication2\obj\Debug\PrintNumbers(1,101,1001).csprojResolveAssemblyReference.cache

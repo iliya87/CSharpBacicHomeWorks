@@ -1,0 +1,5 @@
+C:\Users\Asenov\Desktop\ConsoleApplication1\07.Quotes in Strings\bin\Debug\07.Quotes in Strings.exe.config
+C:\Users\Asenov\Desktop\ConsoleApplication1\07.Quotes in Strings\bin\Debug\07.Quotes in Strings.exe
+C:\Users\Asenov\Desktop\ConsoleApplication1\07.Quotes in Strings\bin\Debug\07.Quotes in Strings.pdb
+C:\Users\Asenov\Desktop\ConsoleApplication1\07.Quotes in Strings\obj\Debug\07.Quotes in Strings.exe
+C:\Users\Asenov\Desktop\ConsoleApplication1\07.Quotes in Strings\obj\Debug\07.Quotes in Strings.pdb

@@ -1,0 +1,5 @@
+C:\Users\Pc\Desktop\CSharpAdvancedTopics\07.Count of Letters\bin\Debug\07.Count of Letters.exe.config
+C:\Users\Pc\Desktop\CSharpAdvancedTopics\07.Count of Letters\bin\Debug\07.Count of Letters.exe
+C:\Users\Pc\Desktop\CSharpAdvancedTopics\07.Count of Letters\bin\Debug\07.Count of Letters.pdb
+C:\Users\Pc\Desktop\CSharpAdvancedTopics\07.Count of Letters\obj\Debug\07.Count of Letters.exe
+C:\Users\Pc\Desktop\CSharpAdvancedTopics\07.Count of Letters\obj\Debug\07.Count of Letters.pdb

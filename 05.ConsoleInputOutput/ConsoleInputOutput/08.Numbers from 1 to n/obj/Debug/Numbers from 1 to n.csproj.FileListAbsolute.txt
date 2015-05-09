@@ -1,0 +1,5 @@
+C:\Users\Pc\Desktop\ConsoleInputOutput\Numbers from 1 to n\bin\Debug\Numbers from 1 to n.exe.config
+C:\Users\Pc\Desktop\ConsoleInputOutput\Numbers from 1 to n\bin\Debug\Numbers from 1 to n.exe
+C:\Users\Pc\Desktop\ConsoleInputOutput\Numbers from 1 to n\bin\Debug\Numbers from 1 to n.pdb
+C:\Users\Pc\Desktop\ConsoleInputOutput\Numbers from 1 to n\obj\Debug\Numbers from 1 to n.exe
+C:\Users\Pc\Desktop\ConsoleInputOutput\Numbers from 1 to n\obj\Debug\Numbers from 1 to n.pdb

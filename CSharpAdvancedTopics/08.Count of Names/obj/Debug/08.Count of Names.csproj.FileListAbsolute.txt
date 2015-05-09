@@ -1,0 +1,5 @@
+C:\Users\Pc\Desktop\CSharpAdvancedTopics\08.Count of Names\bin\Debug\08.Count of Names.exe.config
+C:\Users\Pc\Desktop\CSharpAdvancedTopics\08.Count of Names\bin\Debug\08.Count of Names.exe
+C:\Users\Pc\Desktop\CSharpAdvancedTopics\08.Count of Names\bin\Debug\08.Count of Names.pdb
+C:\Users\Pc\Desktop\CSharpAdvancedTopics\08.Count of Names\obj\Debug\08.Count of Names.exe
+C:\Users\Pc\Desktop\CSharpAdvancedTopics\08.Count of Names\obj\Debug\08.Count of Names.pdb

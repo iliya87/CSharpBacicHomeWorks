@@ -1,0 +1,5 @@
+C:\Users\Pc\Desktop\Trash\CSharp-Advanced-Topics-Homework-Methods-Classes\02.PrimeChecker\bin\Debug\02.PrimeChecker.exe.config
+C:\Users\Pc\Desktop\Trash\CSharp-Advanced-Topics-Homework-Methods-Classes\02.PrimeChecker\bin\Debug\02.PrimeChecker.exe
+C:\Users\Pc\Desktop\Trash\CSharp-Advanced-Topics-Homework-Methods-Classes\02.PrimeChecker\bin\Debug\02.PrimeChecker.pdb
+C:\Users\Pc\Desktop\Trash\CSharp-Advanced-Topics-Homework-Methods-Classes\02.PrimeChecker\obj\Debug\02.PrimeChecker.exe
+C:\Users\Pc\Desktop\Trash\CSharp-Advanced-Topics-Homework-Methods-Classes\02.PrimeChecker\obj\Debug\02.PrimeChecker.pdb

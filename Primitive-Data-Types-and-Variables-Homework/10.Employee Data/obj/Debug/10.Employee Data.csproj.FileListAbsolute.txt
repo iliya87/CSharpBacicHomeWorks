@@ -1,0 +1,9 @@
+C:\Users\Asenov\Desktop\ConsoleApplication1\10.Employee Data\bin\Debug\10.Employee Data.exe.config
+C:\Users\Asenov\Desktop\ConsoleApplication1\10.Employee Data\bin\Debug\10.Employee Data.exe
+C:\Users\Asenov\Desktop\ConsoleApplication1\10.Employee Data\bin\Debug\10.Employee Data.pdb
+C:\Users\Asenov\Desktop\ConsoleApplication1\10.Employee Data\obj\Debug\10.Employee Data.csprojResolveAssemblyReference.cache
+C:\Users\Asenov\Desktop\ConsoleApplication1\10.Employee Data\obj\Debug\10.Employee Data.exe
+C:\Users\Asenov\Desktop\ConsoleApplication1\10.Employee Data\obj\Debug\10.Employee Data.pdb
+C:\Users\Asenov\Desktop\Primitive-Data-Types-and-Variables-Homework\10.Employee Data\bin\Debug\10.Employee Data.exe.config
+C:\Users\Asenov\Desktop\Primitive-Data-Types-and-Variables-Homework\10.Employee Data\obj\Debug\10.Employee Data.exe
+C:\Users\Asenov\Desktop\Primitive-Data-Types-and-Variables-Homework\10.Employee Data\obj\Debug\10.Employee Data.pdb

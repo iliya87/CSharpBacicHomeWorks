@@ -1,0 +1,10 @@
+C:\Users\UniUser\Desktop\HomeWork\Intro-Programming-Homework\Intro-Programming-Homework\bin\Debug\Intro-Programming-Homework.exe.config
+C:\Users\UniUser\Desktop\HomeWork\Intro-Programming-Homework\Intro-Programming-Homework\bin\Debug\Intro-Programming-Homework.exe
+C:\Users\UniUser\Desktop\HomeWork\Intro-Programming-Homework\Intro-Programming-Homework\bin\Debug\Intro-Programming-Homework.pdb
+C:\Users\UniUser\Desktop\HomeWork\Intro-Programming-Homework\Intro-Programming-Homework\obj\Debug\Intro-Programming-Homework.exe
+C:\Users\UniUser\Desktop\HomeWork\Intro-Programming-Homework\Intro-Programming-Homework\obj\Debug\Intro-Programming-Homework.pdb
+C:\Users\TheXman\Desktop\Intro-Programming-Homework\Intro-Programming-Homework\Intro-Programming-Homework\bin\Debug\Intro-Programming-Homework.exe.config
+C:\Users\TheXman\Desktop\Intro-Programming-Homework\Intro-Programming-Homework\Intro-Programming-Homework\obj\Debug\Intro-Programming-Homework.exe
+C:\Users\TheXman\Desktop\Intro-Programming-Homework\Intro-Programming-Homework\Intro-Programming-Homework\obj\Debug\Intro-Programming-Homework.pdb
+C:\Users\TheXman\Desktop\Intro-Programming-Homework\Intro-Programming-Homework\Intro-Programming-Homework\bin\Debug\Intro-Programming-Homework.exe
+C:\Users\TheXman\Desktop\Intro-Programming-Homework\Intro-Programming-Homework\Intro-Programming-Homework\bin\Debug\Intro-Programming-Homework.pdb

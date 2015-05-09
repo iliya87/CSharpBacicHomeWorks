@@ -1,0 +1,9 @@
+C:\Users\Pc\Desktop\Operators-Expressions-and-Statements-Homework\0.2Gravitation-on-the-Moon\bin\Debug\0.2Gravitation-on-the-Moon.exe.config
+C:\Users\Pc\Desktop\Operators-Expressions-and-Statements-Homework\0.2Gravitation-on-the-Moon\obj\Debug\02Gravitation-on-the-Moon.csprojResolveAssemblyReference.cache
+C:\Users\Pc\Desktop\Operators-Expressions-and-Statements-Homework\0.2Gravitation-on-the-Moon\bin\Debug\0.2Gravitation-on-the-Moon.exe
+C:\Users\Pc\Desktop\Operators-Expressions-and-Statements-Homework\0.2Gravitation-on-the-Moon\bin\Debug\0.2Gravitation-on-the-Moon.pdb
+C:\Users\Pc\Desktop\Operators-Expressions-and-Statements-Homework\0.2Gravitation-on-the-Moon\obj\Debug\0.2Gravitation-on-the-Moon.exe
+C:\Users\Pc\Desktop\Operators-Expressions-and-Statements-Homework\0.2Gravitation-on-the-Moon\obj\Debug\0.2Gravitation-on-the-Moon.pdb
+C:\Users\Pc\Desktop\Operators-Expressions-and-Statements-Homework\02Gravitation-on-the-Moon\bin\Debug\0.2Gravitation-on-the-Moon.exe.config
+C:\Users\Pc\Desktop\Operators-Expressions-and-Statements-Homework\02Gravitation-on-the-Moon\obj\Debug\0.2Gravitation-on-the-Moon.exe
+C:\Users\Pc\Desktop\Operators-Expressions-and-Statements-Homework\02Gravitation-on-the-Moon\obj\Debug\0.2Gravitation-on-the-Moon.pdb

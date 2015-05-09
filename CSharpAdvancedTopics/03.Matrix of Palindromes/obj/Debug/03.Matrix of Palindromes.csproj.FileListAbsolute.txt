@@ -1,0 +1,6 @@
+C:\Users\Pc\Desktop\CSharpAdvancedTopics\03.Matrix of Palindromes\bin\Debug\03.Matrix of Palindromes.exe.config
+C:\Users\Pc\Desktop\CSharpAdvancedTopics\03.Matrix of Palindromes\bin\Debug\03.Matrix of Palindromes.exe
+C:\Users\Pc\Desktop\CSharpAdvancedTopics\03.Matrix of Palindromes\bin\Debug\03.Matrix of Palindromes.pdb
+C:\Users\Pc\Desktop\CSharpAdvancedTopics\03.Matrix of Palindromes\obj\Debug\03.Matrix of Palindromes.csprojResolveAssemblyReference.cache
+C:\Users\Pc\Desktop\CSharpAdvancedTopics\03.Matrix of Palindromes\obj\Debug\03.Matrix of Palindromes.exe
+C:\Users\Pc\Desktop\CSharpAdvancedTopics\03.Matrix of Palindromes\obj\Debug\03.Matrix of Palindromes.pdb

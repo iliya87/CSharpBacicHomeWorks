@@ -1,0 +1,9 @@
+C:\Users\Asenov\Desktop\ConsoleApplication1\08.Isosceles Triangle\bin\Debug\08.Isosceles Triangle.exe.config
+C:\Users\Asenov\Desktop\ConsoleApplication1\08.Isosceles Triangle\obj\Debug\08.Isosceles Triangle.csprojResolveAssemblyReference.cache
+C:\Users\Asenov\Desktop\ConsoleApplication1\08.Isosceles Triangle\bin\Debug\08.Isosceles Triangle.exe
+C:\Users\Asenov\Desktop\ConsoleApplication1\08.Isosceles Triangle\bin\Debug\08.Isosceles Triangle.pdb
+C:\Users\Asenov\Desktop\ConsoleApplication1\08.Isosceles Triangle\obj\Debug\08.Isosceles Triangle.exe
+C:\Users\Asenov\Desktop\ConsoleApplication1\08.Isosceles Triangle\obj\Debug\08.Isosceles Triangle.pdb
+C:\Users\Asenov\Desktop\Primitive-Data-Types-and-Variables-Homework\08.Isosceles Triangle\bin\Debug\08.Isosceles Triangle.exe.config
+C:\Users\Asenov\Desktop\Primitive-Data-Types-and-Variables-Homework\08.Isosceles Triangle\obj\Debug\08.Isosceles Triangle.exe
+C:\Users\Asenov\Desktop\Primitive-Data-Types-and-Variables-Homework\08.Isosceles Triangle\obj\Debug\08.Isosceles Triangle.pdb

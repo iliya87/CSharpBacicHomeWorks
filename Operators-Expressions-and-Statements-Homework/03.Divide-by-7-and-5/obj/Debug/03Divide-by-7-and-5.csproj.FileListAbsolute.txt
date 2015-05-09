@@ -1,0 +1,9 @@
+C:\Users\Pc\Desktop\Operators-Expressions-and-Statements-Homework\Divide-by-7-and-5\bin\Debug\Divide-by-7-and-5.exe.config
+C:\Users\Pc\Desktop\Operators-Expressions-and-Statements-Homework\Divide-by-7-and-5\bin\Debug\Divide-by-7-and-5.exe
+C:\Users\Pc\Desktop\Operators-Expressions-and-Statements-Homework\Divide-by-7-and-5\bin\Debug\Divide-by-7-and-5.pdb
+C:\Users\Pc\Desktop\Operators-Expressions-and-Statements-Homework\Divide-by-7-and-5\obj\Debug\03Divide-by-7-and-5.csprojResolveAssemblyReference.cache
+C:\Users\Pc\Desktop\Operators-Expressions-and-Statements-Homework\Divide-by-7-and-5\obj\Debug\Divide-by-7-and-5.exe
+C:\Users\Pc\Desktop\Operators-Expressions-and-Statements-Homework\Divide-by-7-and-5\obj\Debug\Divide-by-7-and-5.pdb
+C:\Users\Pc\Desktop\Operators-Expressions-and-Statements-Homework\03.Divide-by-7-and-5\bin\Debug\Divide-by-7-and-5.exe.config
+C:\Users\Pc\Desktop\Operators-Expressions-and-Statements-Homework\03.Divide-by-7-and-5\obj\Debug\Divide-by-7-and-5.exe
+C:\Users\Pc\Desktop\Operators-Expressions-and-Statements-Homework\03.Divide-by-7-and-5\obj\Debug\Divide-by-7-and-5.pdb

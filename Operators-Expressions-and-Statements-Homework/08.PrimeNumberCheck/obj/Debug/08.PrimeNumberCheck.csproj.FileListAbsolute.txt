@@ -1,0 +1,8 @@
+C:\Users\Pc\Desktop\Operators-Expressions-and-Statements-Homework\PrimeNumberCheck\bin\Debug\PrimeNumberCheck.exe.config
+C:\Users\Pc\Desktop\Operators-Expressions-and-Statements-Homework\PrimeNumberCheck\bin\Debug\PrimeNumberCheck.exe
+C:\Users\Pc\Desktop\Operators-Expressions-and-Statements-Homework\PrimeNumberCheck\bin\Debug\PrimeNumberCheck.pdb
+C:\Users\Pc\Desktop\Operators-Expressions-and-Statements-Homework\PrimeNumberCheck\obj\Debug\PrimeNumberCheck.exe
+C:\Users\Pc\Desktop\Operators-Expressions-and-Statements-Homework\PrimeNumberCheck\obj\Debug\PrimeNumberCheck.pdb
+C:\Users\Pc\Desktop\Operators-Expressions-and-Statements-Homework\08.PrimeNumberCheck\bin\Debug\PrimeNumberCheck.exe.config
+C:\Users\Pc\Desktop\Operators-Expressions-and-Statements-Homework\08.PrimeNumberCheck\obj\Debug\PrimeNumberCheck.exe
+C:\Users\Pc\Desktop\Operators-Expressions-and-Statements-Homework\08.PrimeNumberCheck\obj\Debug\PrimeNumberCheck.pdb

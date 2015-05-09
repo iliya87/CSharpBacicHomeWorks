@@ -1,0 +1,6 @@
+C:\Users\Pc\Desktop\Loops\09.Matrix\bin\Debug\09.Matrix.exe.config
+C:\Users\Pc\Desktop\Loops\09.Matrix\bin\Debug\09.Matrix.exe
+C:\Users\Pc\Desktop\Loops\09.Matrix\bin\Debug\09.Matrix.pdb
+C:\Users\Pc\Desktop\Loops\09.Matrix\obj\Debug\09.Matrix.csprojResolveAssemblyReference.cache
+C:\Users\Pc\Desktop\Loops\09.Matrix\obj\Debug\09.Matrix.exe
+C:\Users\Pc\Desktop\Loops\09.Matrix\obj\Debug\09.Matrix.pdb

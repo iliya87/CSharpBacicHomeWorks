@@ -1,0 +1,6 @@
+C:\Users\TheXman\Desktop\Intro-Programming-Homework\Intro-Programming-Homework\ConsoleApplication8\bin\Debug\ConsoleApplication8.exe.config
+C:\Users\TheXman\Desktop\Intro-Programming-Homework\Intro-Programming-Homework\ConsoleApplication8\obj\Debug\ConsoleApplication8.exe
+C:\Users\TheXman\Desktop\Intro-Programming-Homework\Intro-Programming-Homework\ConsoleApplication8\obj\Debug\ConsoleApplication8.pdb
+C:\Users\TheXman\Desktop\Intro-Programming-Homework\Intro-Programming-Homework\ConsoleApplication8\bin\Debug\ConsoleApplication8.exe
+C:\Users\TheXman\Desktop\Intro-Programming-Homework\Intro-Programming-Homework\ConsoleApplication8\bin\Debug\ConsoleApplication8.pdb
+C:\Users\TheXman\Desktop\Intro-Programming-Homework\Intro-Programming-Homework\ConsoleApplication8\obj\Debug\PrintLongSequence.csprojResolveAssemblyReference.cache

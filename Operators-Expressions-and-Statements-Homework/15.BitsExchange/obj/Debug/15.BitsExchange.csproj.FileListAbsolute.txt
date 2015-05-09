@@ -1,0 +1,5 @@
+C:\Users\Pc\Desktop\Operators-Expressions-and-Statements-Homework\15.BitsExchange\bin\Debug\15.BitsExchange.exe.config
+C:\Users\Pc\Desktop\Operators-Expressions-and-Statements-Homework\15.BitsExchange\bin\Debug\15.BitsExchange.exe
+C:\Users\Pc\Desktop\Operators-Expressions-and-Statements-Homework\15.BitsExchange\bin\Debug\15.BitsExchange.pdb
+C:\Users\Pc\Desktop\Operators-Expressions-and-Statements-Homework\15.BitsExchange\obj\Debug\15.BitsExchange.exe
+C:\Users\Pc\Desktop\Operators-Expressions-and-Statements-Homework\15.BitsExchange\obj\Debug\15.BitsExchange.pdb
