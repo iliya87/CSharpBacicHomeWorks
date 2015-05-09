@@ -1,0 +1,6 @@
+C:\Users\Asenov\Desktop\Primitive-Data-Types-and-Variables-Homework\12.NullValuesArithmetic\bin\Debug\12.NullValuesArithmetic.exe.config
+C:\Users\Asenov\Desktop\Primitive-Data-Types-and-Variables-Homework\12.NullValuesArithmetic\bin\Debug\12.NullValuesArithmetic.exe
+C:\Users\Asenov\Desktop\Primitive-Data-Types-and-Variables-Homework\12.NullValuesArithmetic\bin\Debug\12.NullValuesArithmetic.pdb
+C:\Users\Asenov\Desktop\Primitive-Data-Types-and-Variables-Homework\12.NullValuesArithmetic\obj\Debug\12.NullValuesArithmetic.csprojResolveAssemblyReference.cache
+C:\Users\Asenov\Desktop\Primitive-Data-Types-and-Variables-Homework\12.NullValuesArithmetic\obj\Debug\12.NullValuesArithmetic.exe
+C:\Users\Asenov\Desktop\Primitive-Data-Types-and-Variables-Homework\12.NullValuesArithmetic\obj\Debug\12.NullValuesArithmetic.pdb

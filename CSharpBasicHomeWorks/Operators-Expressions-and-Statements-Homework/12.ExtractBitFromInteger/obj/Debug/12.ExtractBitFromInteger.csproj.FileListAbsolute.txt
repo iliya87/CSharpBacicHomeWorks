@@ -1,0 +1,5 @@
+C:\Users\Pc\Desktop\Operators-Expressions-and-Statements-Homework\12.ExtractBitFromInteger\bin\Debug\12.ExtractBitFromInteger.exe.config
+C:\Users\Pc\Desktop\Operators-Expressions-and-Statements-Homework\12.ExtractBitFromInteger\bin\Debug\12.ExtractBitFromInteger.exe
+C:\Users\Pc\Desktop\Operators-Expressions-and-Statements-Homework\12.ExtractBitFromInteger\bin\Debug\12.ExtractBitFromInteger.pdb
+C:\Users\Pc\Desktop\Operators-Expressions-and-Statements-Homework\12.ExtractBitFromInteger\obj\Debug\12.ExtractBitFromInteger.exe
+C:\Users\Pc\Desktop\Operators-Expressions-and-Statements-Homework\12.ExtractBitFromInteger\obj\Debug\12.ExtractBitFromInteger.pdb

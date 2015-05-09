@@ -1,0 +1,10 @@
+C:\Users\Pc\Desktop\ConsoleInputOutput\09.Sum of n Numbers\bin\Debug\09.Sum of n Numbers.exe.config
+C:\Users\Pc\Desktop\ConsoleInputOutput\09.Sum of n Numbers\bin\Debug\09.Sum of n Numbers.exe
+C:\Users\Pc\Desktop\ConsoleInputOutput\09.Sum of n Numbers\bin\Debug\09.Sum of n Numbers.pdb
+C:\Users\Pc\Desktop\ConsoleInputOutput\09.Sum of n Numbers\obj\Debug\09.Sum of n Numbers.exe
+C:\Users\Pc\Desktop\ConsoleInputOutput\09.Sum of n Numbers\obj\Debug\09.Sum of n Numbers.pdb
+C:\Users\Pc\Desktop\05.ConsoleInputOutput\ConsoleInputOutput\09.Sum of n Numbers\bin\Debug\09.Sum of n Numbers.exe.config
+C:\Users\Pc\Desktop\05.ConsoleInputOutput\ConsoleInputOutput\09.Sum of n Numbers\obj\Debug\09.Sum of n Numbers.exe
+C:\Users\Pc\Desktop\05.ConsoleInputOutput\ConsoleInputOutput\09.Sum of n Numbers\obj\Debug\09.Sum of n Numbers.pdb
+C:\Users\Pc\Desktop\05.ConsoleInputOutput\ConsoleInputOutput\09.Sum of n Numbers\bin\Debug\09.Sum of n Numbers.exe
+C:\Users\Pc\Desktop\05.ConsoleInputOutput\ConsoleInputOutput\09.Sum of n Numbers\bin\Debug\09.Sum of n Numbers.pdb

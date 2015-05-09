@@ -1,0 +1,5 @@
+C:\Users\Pc\Desktop\Loops\06.Calculate N! and K!\bin\Debug\06.Calculate N! and K!.exe.config
+C:\Users\Pc\Desktop\Loops\06.Calculate N! and K!\obj\Debug\06.Calculate N! and K!.exe
+C:\Users\Pc\Desktop\Loops\06.Calculate N! and K!\obj\Debug\06.Calculate N! and K!.pdb
+C:\Users\Pc\Desktop\Loops\06.Calculate N! and K!\bin\Debug\06.Calculate N! and K!.exe
+C:\Users\Pc\Desktop\Loops\06.Calculate N! and K!\bin\Debug\06.Calculate N! and K!.pdb

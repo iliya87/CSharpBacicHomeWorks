@@ -1,0 +1,9 @@
+C:\Users\Asenov\Desktop\ConsoleApplication1\04.Unicode Character\bin\Debug\04.Unicode Character.exe.config
+C:\Users\Asenov\Desktop\ConsoleApplication1\04.Unicode Character\bin\Debug\04.Unicode Character.exe
+C:\Users\Asenov\Desktop\ConsoleApplication1\04.Unicode Character\bin\Debug\04.Unicode Character.pdb
+C:\Users\Asenov\Desktop\ConsoleApplication1\04.Unicode Character\obj\Debug\04.Unicode Character.exe
+C:\Users\Asenov\Desktop\ConsoleApplication1\04.Unicode Character\obj\Debug\04.Unicode Character.pdb
+C:\Users\Asenov\Desktop\ConsoleApplication1\04.Unicode Character\obj\Debug\04.Unicode Character.csprojResolveAssemblyReference.cache
+C:\Users\Asenov\Desktop\Primitive-Data-Types-and-Variables-Homework\04.Unicode Character\bin\Debug\04.Unicode Character.exe.config
+C:\Users\Asenov\Desktop\Primitive-Data-Types-and-Variables-Homework\04.Unicode Character\obj\Debug\04.Unicode Character.exe
+C:\Users\Asenov\Desktop\Primitive-Data-Types-and-Variables-Homework\04.Unicode Character\obj\Debug\04.Unicode Character.pdb

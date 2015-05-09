@@ -1,0 +1,5 @@
+C:\Users\Pc\Desktop\CSharpAdvancedTopics\06.Join Lists\bin\Debug\06.Join Lists.exe.config
+C:\Users\Pc\Desktop\CSharpAdvancedTopics\06.Join Lists\bin\Debug\06.Join Lists.exe
+C:\Users\Pc\Desktop\CSharpAdvancedTopics\06.Join Lists\bin\Debug\06.Join Lists.pdb
+C:\Users\Pc\Desktop\CSharpAdvancedTopics\06.Join Lists\obj\Debug\06.Join Lists.exe
+C:\Users\Pc\Desktop\CSharpAdvancedTopics\06.Join Lists\obj\Debug\06.Join Lists.pdb

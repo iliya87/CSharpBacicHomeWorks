@@ -1,0 +1,6 @@
+C:\Users\Pc\Desktop\Operators-Expressions-and-Statements-Homework\13.Check a Bit at Given Position\bin\Debug\13.Check a Bit at Given Position.exe.config
+C:\Users\Pc\Desktop\Operators-Expressions-and-Statements-Homework\13.Check a Bit at Given Position\bin\Debug\13.Check a Bit at Given Position.exe
+C:\Users\Pc\Desktop\Operators-Expressions-and-Statements-Homework\13.Check a Bit at Given Position\bin\Debug\13.Check a Bit at Given Position.pdb
+C:\Users\Pc\Desktop\Operators-Expressions-and-Statements-Homework\13.Check a Bit at Given Position\obj\Debug\13.Check a Bit at Given Position.exe
+C:\Users\Pc\Desktop\Operators-Expressions-and-Statements-Homework\13.Check a Bit at Given Position\obj\Debug\13.Check a Bit at Given Position.pdb
+C:\Users\Pc\Desktop\Operators-Expressions-and-Statements-Homework\13.Check a Bit at Given Position\obj\Debug\13.Check a Bit at Given Position.csprojResolveAssemblyReference.cache

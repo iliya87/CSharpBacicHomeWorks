@@ -1,0 +1,6 @@
+C:\Users\TheXman\Desktop\Intro-Programming-Homework\Intro-Programming-Homework\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe.config
+C:\Users\TheXman\Desktop\Intro-Programming-Homework\Intro-Programming-Homework\ConsoleApplication4\obj\Debug\ConsoleApplication4.csprojResolveAssemblyReference.cache
+C:\Users\TheXman\Desktop\Intro-Programming-Homework\Intro-Programming-Homework\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe
+C:\Users\TheXman\Desktop\Intro-Programming-Homework\Intro-Programming-Homework\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb
+C:\Users\TheXman\Desktop\Intro-Programming-Homework\Intro-Programming-Homework\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
+C:\Users\TheXman\Desktop\Intro-Programming-Homework\Intro-Programming-Homework\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb

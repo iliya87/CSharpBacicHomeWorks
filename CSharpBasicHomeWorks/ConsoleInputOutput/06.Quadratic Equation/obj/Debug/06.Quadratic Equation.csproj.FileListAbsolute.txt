@@ -1,0 +1,8 @@
+C:\Users\Pc\Desktop\ConsoleInputOutput\06.Quadratic Equation\bin\Debug\06.Quadratic Equation.exe.config
+C:\Users\Pc\Desktop\ConsoleInputOutput\06.Quadratic Equation\bin\Debug\06.Quadratic Equation.exe
+C:\Users\Pc\Desktop\ConsoleInputOutput\06.Quadratic Equation\bin\Debug\06.Quadratic Equation.pdb
+C:\Users\Pc\Desktop\ConsoleInputOutput\06.Quadratic Equation\obj\Debug\06.Quadratic Equation.exe
+C:\Users\Pc\Desktop\ConsoleInputOutput\06.Quadratic Equation\obj\Debug\06.Quadratic Equation.pdb
+C:\Users\Pc\Desktop\05.ConsoleInputOutput\ConsoleInputOutput\06.Quadratic Equation\bin\Debug\06.Quadratic Equation.exe.config
+C:\Users\Pc\Desktop\05.ConsoleInputOutput\ConsoleInputOutput\06.Quadratic Equation\obj\Debug\06.Quadratic Equation.exe
+C:\Users\Pc\Desktop\05.ConsoleInputOutput\ConsoleInputOutput\06.Quadratic Equation\obj\Debug\06.Quadratic Equation.pdb

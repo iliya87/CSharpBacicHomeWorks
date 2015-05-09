@@ -1,0 +1,6 @@
+C:\Users\Pc\Desktop\Loops\01.Numbers from 1 to N\bin\Debug\01.Numbers from 1 to N.exe.config
+C:\Users\Pc\Desktop\Loops\01.Numbers from 1 to N\bin\Debug\01.Numbers from 1 to N.exe
+C:\Users\Pc\Desktop\Loops\01.Numbers from 1 to N\bin\Debug\01.Numbers from 1 to N.pdb
+C:\Users\Pc\Desktop\Loops\01.Numbers from 1 to N\obj\Debug\01.Numbers from 1 to N.csprojResolveAssemblyReference.cache
+C:\Users\Pc\Desktop\Loops\01.Numbers from 1 to N\obj\Debug\01.Numbers from 1 to N.exe
+C:\Users\Pc\Desktop\Loops\01.Numbers from 1 to N\obj\Debug\01.Numbers from 1 to N.pdb

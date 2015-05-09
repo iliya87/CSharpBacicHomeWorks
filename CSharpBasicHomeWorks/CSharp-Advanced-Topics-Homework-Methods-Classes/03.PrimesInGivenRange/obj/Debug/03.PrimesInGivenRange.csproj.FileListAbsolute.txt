@@ -1,0 +1,6 @@
+C:\Users\Pc\Desktop\Trash\CSharp-Advanced-Topics-Homework-Methods-Classes\03.PrimesInGivenRange\bin\Debug\03.PrimesInGivenRange.exe.config
+C:\Users\Pc\Desktop\Trash\CSharp-Advanced-Topics-Homework-Methods-Classes\03.PrimesInGivenRange\bin\Debug\03.PrimesInGivenRange.exe
+C:\Users\Pc\Desktop\Trash\CSharp-Advanced-Topics-Homework-Methods-Classes\03.PrimesInGivenRange\bin\Debug\03.PrimesInGivenRange.pdb
+C:\Users\Pc\Desktop\Trash\CSharp-Advanced-Topics-Homework-Methods-Classes\03.PrimesInGivenRange\obj\Debug\03.PrimesInGivenRange.csprojResolveAssemblyReference.cache
+C:\Users\Pc\Desktop\Trash\CSharp-Advanced-Topics-Homework-Methods-Classes\03.PrimesInGivenRange\obj\Debug\03.PrimesInGivenRange.exe
+C:\Users\Pc\Desktop\Trash\CSharp-Advanced-Topics-Homework-Methods-Classes\03.PrimesInGivenRange\obj\Debug\03.PrimesInGivenRange.pdb

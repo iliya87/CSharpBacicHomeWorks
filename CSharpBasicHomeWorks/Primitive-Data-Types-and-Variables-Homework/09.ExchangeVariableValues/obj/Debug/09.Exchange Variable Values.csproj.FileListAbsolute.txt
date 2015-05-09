@@ -1,0 +1,8 @@
+C:\Users\Asenov\Desktop\ConsoleApplication1\09.ExchangeVariableValues\bin\Debug\09.ExchangeVariableValues.exe.config
+C:\Users\Asenov\Desktop\ConsoleApplication1\09.ExchangeVariableValues\bin\Debug\09.ExchangeVariableValues.exe
+C:\Users\Asenov\Desktop\ConsoleApplication1\09.ExchangeVariableValues\bin\Debug\09.ExchangeVariableValues.pdb
+C:\Users\Asenov\Desktop\ConsoleApplication1\09.ExchangeVariableValues\obj\Debug\09.ExchangeVariableValues.exe
+C:\Users\Asenov\Desktop\ConsoleApplication1\09.ExchangeVariableValues\obj\Debug\09.ExchangeVariableValues.pdb
+C:\Users\Asenov\Desktop\Primitive-Data-Types-and-Variables-Homework\09.ExchangeVariableValues\bin\Debug\09.ExchangeVariableValues.exe.config
+C:\Users\Asenov\Desktop\Primitive-Data-Types-and-Variables-Homework\09.ExchangeVariableValues\obj\Debug\09.ExchangeVariableValues.exe
+C:\Users\Asenov\Desktop\Primitive-Data-Types-and-Variables-Homework\09.ExchangeVariableValues\obj\Debug\09.ExchangeVariableValues.pdb

@@ -1,0 +1,8 @@
+C:\Users\UniUser\Desktop\HomeWork\Intro-Programming-Homework\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\UniUser\Desktop\HomeWork\Intro-Programming-Homework\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\UniUser\Desktop\HomeWork\Intro-Programming-Homework\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\UniUser\Desktop\HomeWork\Intro-Programming-Homework\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\UniUser\Desktop\HomeWork\Intro-Programming-Homework\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\TheXman\Desktop\Intro-Programming-Homework\Intro-Programming-Homework\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\TheXman\Desktop\Intro-Programming-Homework\Intro-Programming-Homework\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\TheXman\Desktop\Intro-Programming-Homework\Intro-Programming-Homework\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

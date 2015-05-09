@@ -1,0 +1,10 @@
+C:\Users\Asenov\Desktop\ConsoleApplication1\Variable in Hexadecimal Format\bin\Debug\Variable in Hexadecimal Format.exe.config
+C:\Users\Asenov\Desktop\ConsoleApplication1\Variable in Hexadecimal Format\bin\Debug\Variable in Hexadecimal Format.exe
+C:\Users\Asenov\Desktop\ConsoleApplication1\Variable in Hexadecimal Format\bin\Debug\Variable in Hexadecimal Format.pdb
+C:\Users\Asenov\Desktop\ConsoleApplication1\Variable in Hexadecimal Format\obj\Debug\Variable in Hexadecimal Format.exe
+C:\Users\Asenov\Desktop\ConsoleApplication1\Variable in Hexadecimal Format\obj\Debug\Variable in Hexadecimal Format.pdb
+C:\Users\Asenov\Desktop\ConsoleApplication1\03.Variable in Hexadecimal Format\bin\Debug\Variable in Hexadecimal Format.exe.config
+C:\Users\Asenov\Desktop\ConsoleApplication1\03.Variable in Hexadecimal Format\obj\Debug\Variable in Hexadecimal Format.exe
+C:\Users\Asenov\Desktop\ConsoleApplication1\03.Variable in Hexadecimal Format\obj\Debug\Variable in Hexadecimal Format.pdb
+C:\Users\Asenov\Desktop\ConsoleApplication1\03.Variable in Hexadecimal Format\bin\Debug\Variable in Hexadecimal Format.exe
+C:\Users\Asenov\Desktop\ConsoleApplication1\03.Variable in Hexadecimal Format\bin\Debug\Variable in Hexadecimal Format.pdb

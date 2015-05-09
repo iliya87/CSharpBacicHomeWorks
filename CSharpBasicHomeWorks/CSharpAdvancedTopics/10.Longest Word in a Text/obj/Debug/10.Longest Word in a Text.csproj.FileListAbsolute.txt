@@ -1,0 +1,5 @@
+C:\Users\Pc\Desktop\CSharpAdvancedTopics\10.Longest Word in a Text\bin\Debug\10.Longest Word in a Text.exe.config
+C:\Users\Pc\Desktop\CSharpAdvancedTopics\10.Longest Word in a Text\bin\Debug\10.Longest Word in a Text.exe
+C:\Users\Pc\Desktop\CSharpAdvancedTopics\10.Longest Word in a Text\bin\Debug\10.Longest Word in a Text.pdb
+C:\Users\Pc\Desktop\CSharpAdvancedTopics\10.Longest Word in a Text\obj\Debug\10.Longest Word in a Text.exe
+C:\Users\Pc\Desktop\CSharpAdvancedTopics\10.Longest Word in a Text\obj\Debug\10.Longest Word in a Text.pdb

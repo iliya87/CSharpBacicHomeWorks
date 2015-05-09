@@ -1,0 +1,6 @@
+C:\Users\Pc\Desktop\CSharpAdvancedTopics\05.Remove Names\bin\Debug\05.Remove Names.exe.config
+C:\Users\Pc\Desktop\CSharpAdvancedTopics\05.Remove Names\bin\Debug\05.Remove Names.exe
+C:\Users\Pc\Desktop\CSharpAdvancedTopics\05.Remove Names\bin\Debug\05.Remove Names.pdb
+C:\Users\Pc\Desktop\CSharpAdvancedTopics\05.Remove Names\obj\Debug\05.Remove Names.csprojResolveAssemblyReference.cache
+C:\Users\Pc\Desktop\CSharpAdvancedTopics\05.Remove Names\obj\Debug\05.Remove Names.exe
+C:\Users\Pc\Desktop\CSharpAdvancedTopics\05.Remove Names\obj\Debug\05.Remove Names.pdb

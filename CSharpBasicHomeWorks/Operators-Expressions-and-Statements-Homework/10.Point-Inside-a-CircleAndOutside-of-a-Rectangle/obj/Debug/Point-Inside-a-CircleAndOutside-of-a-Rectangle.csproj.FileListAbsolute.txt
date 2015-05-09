@@ -1,0 +1,6 @@
+C:\Users\Pc\Desktop\Operators-Expressions-and-Statements-Homework\Point-Inside-a-CircleAndOutside-of-a-Rectangle\bin\Debug\Point-Inside-a-CircleAndOutside-of-a-Rectangle.exe.config
+C:\Users\Pc\Desktop\Operators-Expressions-and-Statements-Homework\Point-Inside-a-CircleAndOutside-of-a-Rectangle\obj\Debug\Point-Inside-a-CircleAndOutside-of-a-Rectangle.csprojResolveAssemblyReference.cache
+C:\Users\Pc\Desktop\Operators-Expressions-and-Statements-Homework\Point-Inside-a-CircleAndOutside-of-a-Rectangle\bin\Debug\Point-Inside-a-CircleAndOutside-of-a-Rectangle.exe
+C:\Users\Pc\Desktop\Operators-Expressions-and-Statements-Homework\Point-Inside-a-CircleAndOutside-of-a-Rectangle\bin\Debug\Point-Inside-a-CircleAndOutside-of-a-Rectangle.pdb
+C:\Users\Pc\Desktop\Operators-Expressions-and-Statements-Homework\Point-Inside-a-CircleAndOutside-of-a-Rectangle\obj\Debug\Point-Inside-a-CircleAndOutside-of-a-Rectangle.exe
+C:\Users\Pc\Desktop\Operators-Expressions-and-Statements-Homework\Point-Inside-a-CircleAndOutside-of-a-Rectangle\obj\Debug\Point-Inside-a-CircleAndOutside-of-a-Rectangle.pdb

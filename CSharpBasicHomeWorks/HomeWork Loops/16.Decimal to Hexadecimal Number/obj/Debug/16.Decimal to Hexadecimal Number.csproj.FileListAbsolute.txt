@@ -1,0 +1,5 @@
+C:\Users\Pc\Desktop\Loops\16.Decimal to Hexadecimal Number\bin\Debug\16.Decimal to Hexadecimal Number.exe.config
+C:\Users\Pc\Desktop\Loops\16.Decimal to Hexadecimal Number\bin\Debug\16.Decimal to Hexadecimal Number.exe
+C:\Users\Pc\Desktop\Loops\16.Decimal to Hexadecimal Number\bin\Debug\16.Decimal to Hexadecimal Number.pdb
+C:\Users\Pc\Desktop\Loops\16.Decimal to Hexadecimal Number\obj\Debug\16.Decimal to Hexadecimal Number.exe
+C:\Users\Pc\Desktop\Loops\16.Decimal to Hexadecimal Number\obj\Debug\16.Decimal to Hexadecimal Number.pdb

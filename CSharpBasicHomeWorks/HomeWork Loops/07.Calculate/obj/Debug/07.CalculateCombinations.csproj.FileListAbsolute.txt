@@ -1,0 +1,5 @@
+C:\Users\Pc\Desktop\Loops\07.Calculate\bin\Debug\07.Calculate.exe.config
+C:\Users\Pc\Desktop\Loops\07.Calculate\bin\Debug\07.Calculate.exe
+C:\Users\Pc\Desktop\Loops\07.Calculate\bin\Debug\07.Calculate.pdb
+C:\Users\Pc\Desktop\Loops\07.Calculate\obj\Debug\07.Calculate.exe
+C:\Users\Pc\Desktop\Loops\07.Calculate\obj\Debug\07.Calculate.pdb

@@ -1,0 +1,9 @@
+C:\Users\Pc\Desktop\ConsoleInputOutput\04.Number Compare\bin\Debug\04.Number Compare.exe.config
+C:\Users\Pc\Desktop\ConsoleInputOutput\04.Number Compare\obj\Debug\04.Number Compare.csprojResolveAssemblyReference.cache
+C:\Users\Pc\Desktop\ConsoleInputOutput\04.Number Compare\bin\Debug\04.Number Compare.exe
+C:\Users\Pc\Desktop\ConsoleInputOutput\04.Number Compare\bin\Debug\04.Number Compare.pdb
+C:\Users\Pc\Desktop\ConsoleInputOutput\04.Number Compare\obj\Debug\04.Number Compare.exe
+C:\Users\Pc\Desktop\ConsoleInputOutput\04.Number Compare\obj\Debug\04.Number Compare.pdb
+C:\Users\Pc\Desktop\05.ConsoleInputOutput\ConsoleInputOutput\04.Number Compare\bin\Debug\04.Number Compare.exe.config
+C:\Users\Pc\Desktop\05.ConsoleInputOutput\ConsoleInputOutput\04.Number Compare\obj\Debug\04.Number Compare.exe
+C:\Users\Pc\Desktop\05.ConsoleInputOutput\ConsoleInputOutput\04.Number Compare\obj\Debug\04.Number Compare.pdb

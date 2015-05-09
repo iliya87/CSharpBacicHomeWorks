@@ -1,0 +1,8 @@
+C:\Users\Asenov\Desktop\ConsoleApplication1\02.Float or Double\bin\Debug\02.Float or Double.exe.config
+C:\Users\Asenov\Desktop\ConsoleApplication1\02.Float or Double\bin\Debug\02.Float or Double.exe
+C:\Users\Asenov\Desktop\ConsoleApplication1\02.Float or Double\bin\Debug\02.Float or Double.pdb
+C:\Users\Asenov\Desktop\ConsoleApplication1\02.Float or Double\obj\Debug\02.Float or Double.exe
+C:\Users\Asenov\Desktop\ConsoleApplication1\02.Float or Double\obj\Debug\02.Float or Double.pdb
+C:\Users\Asenov\Desktop\Primitive-Data-Types-and-Variables-Homework\02.Float or Double\bin\Debug\02.Float or Double.exe.config
+C:\Users\Asenov\Desktop\Primitive-Data-Types-and-Variables-Homework\02.Float or Double\obj\Debug\02.Float or Double.exe
+C:\Users\Asenov\Desktop\Primitive-Data-Types-and-Variables-Homework\02.Float or Double\obj\Debug\02.Float or Double.pdb
